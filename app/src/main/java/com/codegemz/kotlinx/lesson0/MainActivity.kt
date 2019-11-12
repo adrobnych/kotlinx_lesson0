@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // textView can be found in activity_main.xml
-        textview.text = "Hello World!" // change to your text!
+        textview.text = "Hello, John!" // change to your text!
     }
 }
